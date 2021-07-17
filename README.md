@@ -1,3 +1,4 @@
-# ai
+Exploration of the cifar10 dataset using convolutional neural networks
 
-preprocessing: https://www.tensorflow.org/tutorials/images/classification 
+File structure:
+Read jupiter notebook for full file with contents page on top
